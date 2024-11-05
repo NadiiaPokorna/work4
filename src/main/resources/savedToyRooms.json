@@ -1,0 +1,16 @@
+[ {
+  "id" : "cb347007-e142-48d1-9cbc-9b438ea703c5",
+  "sections" : [ {
+    "sectionName" : "Секція 1",
+    "toys" : [ {
+      "name" : "Конструктор",
+      "type" : "Конструктор",
+      "size" : "Середній",
+      "price" : 250.0
+    } ]
+  } ],
+  "budgetManager" : {
+    "budget" : 19750.0,
+    "remainingBudget" : 0.0
+  }
+} ]
